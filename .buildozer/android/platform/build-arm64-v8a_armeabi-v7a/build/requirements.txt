@@ -1,0 +1,8 @@
+certifi
+chardet
+filetype
+idna
+requests
+six
+urllib3
+https://files.pythonhosted.org/packages/fc/ad/d07d7862a62ffa6d79d68074d14823243dd235a77c45262acbf6adeb28bf/charset_normalizer-3.5.2-py3-none-any.whl
